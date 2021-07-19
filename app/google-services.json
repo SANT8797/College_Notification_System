@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1070757128200",
+    "firebase_url": "https://govtpolyamravati-aac1a.firebaseio.com",
+    "project_id": "govtpolyamravati-aac1a",
+    "storage_bucket": "govtpolyamravati-aac1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070757128200:android:571864f6c47401f0",
+        "android_client_info": {
+          "package_name": "com.example.govtpolyamravati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070757128200-8oo8a8g4mvm7aaklk3q7sp9rnsrhtq6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.govtpolyamravati",
+            "certificate_hash": "4cdfe2ee7962c337438d4a946690b152cde181b6"
+          }
+        },
+        {
+          "client_id": "1070757128200-e12v5poppia997js40ihv2jtnc3tvf9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4zy-DaTZqdxs9aLhA37r9HNkzReoj22o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070757128200-e12v5poppia997js40ihv2jtnc3tvf9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
